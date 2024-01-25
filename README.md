@@ -21,7 +21,6 @@ innovators with immense knowledge.
 
 ## Table of Contents
 
-- [About UPES CSA](#about-upes-csa)
 - [Goals](#goals)
 - [How to Get Involved](#how-to-get-involved)
 - [Projects](#projects)
