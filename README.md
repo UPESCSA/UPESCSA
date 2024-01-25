@@ -1,10 +1,23 @@
 # UPES Cloud Security Alliance
 
-Welcome to the UPES Cloud Security Alliance (CSA) repository! This organization is dedicated to promoting cloud security awareness, education, and collaboration among students at the University of Petroleum and Energy Studies (UPES). This README provides an overview of the organization, its goals, and how you can get involved.
+Welcome to the UPES Cloud Security Alliance (CSA) Official GitHub Account!
+
+This README provides an overview of the organization, its goals, and how you can get involved.
 
 ## About UPES CSA
 
-The UPES Cloud Security Alliance is a student-led organization focused on fostering knowledge and skills related to cloud security. Our mission is to create a community where students can engage in discussions, workshops, and projects to enhance their understanding of cloud security concepts and technologies.
+With the vision of redefining excellence, Cloud Security Alliance (CSA)
+embarked upon its glorious journey as the youngest and first-ever
+domain-centric student chapter in UPES in 2017. CSA student chapter is
+zealously dedicated to raising awareness of best practices to help
+ensure a secure cloud computing environment, in association with Cloud
+Security Alliance, Uttarakhand. In the pursuit of its aim, the student
+chapter has been reputed as a pinnacle of success, which is evident
+through the plethora of opportunities provided such as
+technology-centred workshops, technical events, and fun fests. “A
+community of learners, innovators, and champions of our own success”,
+quoting this, UPES-CSA strives to nurture its community of student
+innovators with immense knowledge.
 
 ## Table of Contents
 
