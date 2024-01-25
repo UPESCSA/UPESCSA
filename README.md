@@ -61,6 +61,6 @@ To ensure a positive and inclusive environment, we expect all community members 
 
 ## Contact Information
 
-For any inquiries or to get in touch with the UPES CSA team, you can reach us at [contact@upescsa.org](mailto:contact@upescsa.org).
+For any inquiries or to get in touch with the UPES CSA team, you can reach us at [contact@upescsa.org](mailto:contact@upescsa.in).
 
 Thank you for joining UPES CSA, and we look forward to building a vibrant cloud security community together!
