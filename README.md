@@ -2,8 +2,6 @@
 
 Welcome to the UPES Cloud Security Alliance (CSA) Official GitHub Account!
 
-This README provides an overview of the organization, its goals, and how you can get involved.
-
 ## About UPES CSA
 
 With the vision of redefining excellence, Cloud Security Alliance (CSA)
